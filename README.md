@@ -2,6 +2,6 @@
 
 ##How to run
 
-l. install node.js
-l. run command: npm -i
-l. run command: node app.js
+1. install node.js
+1. run command: npm -i
+1. run command: node app.js
