@@ -1,6 +1,6 @@
 # ejs-web-blog-non-persist
 
-This web application uses NodeJS backend, Express, and EJS
+This web application uses and demonstrates the knowledge of NodeJS backend, Express.js Framework, and EJS
 
 ## How to run
 
